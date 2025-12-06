@@ -1,7 +1,7 @@
 wandb>=0.15.3
 openai==0.27.*
 pandas==1.5.*
-unstructured>=0.6.10
+unstructured>=0.18.18
 langchain>=0.0.188
 gradio>=3.33.1
 gradio_client>=0.2.5

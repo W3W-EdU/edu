@@ -2,3 +2,4 @@ torch>=1.9
 torchvision
 wandb
 
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability

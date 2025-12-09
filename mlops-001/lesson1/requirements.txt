@@ -7,3 +7,4 @@ scikit-learn
 torchvision
 tqdm
 wandb
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability

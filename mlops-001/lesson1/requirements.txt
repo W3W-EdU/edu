@@ -1,4 +1,4 @@
-torch>=1.9
+torch>=2.9.0
 fastai>=2.7
 matplotlib
 numpy
@@ -7,3 +7,4 @@ scikit-learn
 torchvision
 tqdm
 wandb
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
